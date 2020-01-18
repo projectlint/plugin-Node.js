@@ -14,6 +14,13 @@ test("smoke", function() {
             },
           },
         },
+        "strict": Object {
+          "version": Object {
+            "error": Object {
+              "status": "lts_active",
+            },
+          },
+        },
       },
       "rules": Object {
         "version": Object {
